@@ -168,4 +168,6 @@ dashboard, simulated network traffic, intrusion
 statistics, attack distribution, and event logs.
 
 ### Demo Video
-**Demo video:** Coming soon.
+
+[▶ Watch / Download Execution.mp4](https://github.com/NIHARIKAKADAM/Hi-MLIC-Intrusion-Classification/releases/download/v1.0.0/Execution.mp4)
+
